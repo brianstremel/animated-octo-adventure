@@ -2,3 +2,5 @@ Hola soy el test 2
 Cómo va?
 
 Vamos bien, gracias!
+
+Adiós.
